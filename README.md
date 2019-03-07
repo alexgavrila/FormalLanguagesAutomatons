@@ -3,7 +3,8 @@
 
 
 ## WARNING
-The code is not commented properly nor is it tested thoroughly. This was a school project
+The code is not commented properly nor is it tested thoroughly. 
+This was a school project
 DON'T BE LAZY LIKE ME PLEASE COMMENT YOUR CODE 
 
 
